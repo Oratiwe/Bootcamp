@@ -3,7 +3,7 @@ const gpa = 65;
 const exp =70;
 const avg =60;
 const dist=88;
-const fail=60;
+const fail=49;
 
 
 if(gpa >= exp){
